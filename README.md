@@ -9,6 +9,7 @@ pwd 현재 나의 경로
 ### 단축키
 cd.. 상위폴더로 이동
 ### 단축키
-cd 경로 
-code . //vscode 이동
+code .//vscode 이동
+### 단축키
+cd 경로 이동
 
